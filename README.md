@@ -1,22 +1,25 @@
 # Cybersecurity Labs Portfolio
 
-This repository documents my cybersecurity learning journey through hands-on labs, vulnerability discovery, and exploitation exercises.
+This repository documents my cybersecurity learning journey through hands-on labs involving vulnerability discovery and exploitation.
 
-Focus areas:
+## Focus areas:
 - Network reconnaissance
-- Vulnerability discovery
+- Service enumeration
+- Vulnerability analysis
 - Exploitation
 - Security analysis
+- Security mitigation
 
-Tools used:
+## Tools used:
 - Kali Linux
 - Nmap
-- Metasploit
+- Metasploit Framework
 
-Lab Environments:
+## Lab Environments:
 - Metasploitable 2
 
 ## Current Labs
 
-Metasploitable:
+### Metasploitable 2
 - VSFTPD 2.3.4 Backdoor Exploit
+- Samba Usermap Script Command Injection
