@@ -21,5 +21,6 @@ This repository documents my cybersecurity learning journey through hands-on lab
 ## Current Labs
 
 ### Metasploitable 2
-- VSFTPD 2.3.4 Backdoor Exploit
-- Samba Usermap Script Command Injection
+- VSFTPD 2.3.4 Backdoor Exploit (Remote Code Execution)
+- Samba Usermap Script Command Injection (RCE)
+- SMB Enumeration & Anonymous Writable Share (Misconfiguration Exploitation)
